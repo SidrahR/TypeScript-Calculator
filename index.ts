@@ -13,7 +13,7 @@ async function title() {
 \t ============================\n`);
   await timer(2000);
   rainbowTitle.stop();
-  console.log("Use Arrow Keys ⬆⬇ or Numbers (1-5) to Select Operator");
+  console.log("Use Arrow Keys ↑↓ or Numbers (1-5) to Select Operator");
 }
 
 async function calculator() {
