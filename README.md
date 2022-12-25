@@ -1,4 +1,4 @@
-This is CLI Calculator built using typescript.
+This is a CLI Calculator built using typescript.
 
 It can perform five operations
 
@@ -10,5 +10,6 @@ It can perform five operations
 
 To perform another calculation you can enter Y , y , yes and YES. Entering any other characters will exit the calculator.
 
-To run this package you need to first install node.
-Then open your terminal and type **npx sidrah-calculator**
+1. To run this package you need to first install **node**
+2. Then open your terminal and type 
+      **npx sidrah-calculator**
